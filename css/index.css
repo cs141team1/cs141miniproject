@@ -1,3 +1,13 @@
 body {
   background-color: black;
 }
+
+.info-card {
+    color: white;
+    background-color: black;
+    height: 94vh;
+    position: absolute;
+    width: 30vw;
+    top: 2vh;
+    right: 1vw;
+}
