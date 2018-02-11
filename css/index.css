@@ -3,11 +3,12 @@ body {
 }
 
 .body-diagrams {
-  width: 60vw;
+  width: 67vw;
   position: absolute;
   left: 1vw;
   top: 10vh;
-  height: 84vh;
+  height: 85vh;
+  background-image: "../img/body_systems.jpeg"
 }
 
 .dropdown-pos {
