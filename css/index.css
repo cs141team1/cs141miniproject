@@ -6,7 +6,8 @@ body {
   width: 70vw;
   position: absolute;
   left: 1vw;
-  top: 4vh;
+  top: 10vh;
+  height: 84vh;
 }
 
 .dropdown-pos {
