@@ -8,7 +8,7 @@ body {
   left: 1vw;
   top: 10vh;
   height: 85vh;
-  background-image: "../img/body_systems.jpeg"
+  background-color: black;
 }
 
 .dropdown-pos {
